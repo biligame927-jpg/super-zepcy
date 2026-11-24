@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /CNAME
+
+Sitemap: https://superzipcy.fun/sitemap.xml
