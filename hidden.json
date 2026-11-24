@@ -1,10 +1,10 @@
 {
-  "name": "Super Zepcy",
-  "description": "作品尚未揭示。这是发行前的占位元数据，不是开图后的 1/1 作品。铸造成功后，合约拥有者会将 Base URI 指向 IPFS 上的 {id}.json，每位藏家将看到对应编号的独立作品。",
-  "image": "https://biligame927-jpg.github.io/super-zepcy/images/hero.jpg",
-  "external_url": "https://biligame927-jpg.github.io/super-zepcy/",
+  "name": "Super Zipcy",
+  "description": "This artwork has not been revealed. This is pre-reveal placeholder metadata, not the final 1/1 work. After minting, you hold a sealed token. The reveal date has not been announced. Once revealed, each token will point to its own unique artwork.",
+  "image": "https://superzipcy.fun/images/hero.jpg",
+  "external_url": "https://superzipcy.fun/",
   "attributes": [
     { "trait_type": "Status", "value": "Unrevealed" },
-    { "trait_type": "Collection", "value": "Super Zepcy" }
+    { "trait_type": "Collection", "value": "Super Zipcy" }
   ]
 }
