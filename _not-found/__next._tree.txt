@@ -5,7 +5,7 @@
 :HL["/_next/static/chunks/1284eqa44ss3x.css","style"]
 :HL["/_next/static/chunks/3hfhh4--5dpk7.css","style"]
 :HL["/_next/static/chunks/0hq2g9i59y7tr.css","style"]
-:HL["/_next/static/chunks/0nv4h9ayk-vs8.css","style"]
+:HL["/_next/static/chunks/28miqwviocjzg.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"ddYOEJ1yK7gyzobiCXQq9","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"1KjwCezdb48qlSBBsol1q","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
